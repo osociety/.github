@@ -6,7 +6,7 @@
 ### *Powering Open Source Network Utilities*
 
 [![Organization Stars](https://img.shields.io/github/stars/osociety?style=for-the-badge&color=00ADB5)](https://github.com/osociety)
-[![GitHub Followers](https://img.shields.io/github/followers/osociety?style=for-the-badge)](https://github.com/osociety)
+[![Follow on GitHub](https://img.shields.io/badge/Follow-osociety-181717?style=for-the-badge&logo=github)](https://github.com/osociety)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 </div>
