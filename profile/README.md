@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Open Society Banner" width="100%">
+<img src="banner.png" alt="Open Society Banner" width="600px">
 
 # Open Society 👋
 ### *Powering Open Source Network Utilities*
@@ -22,8 +22,7 @@ Welcome to **Open Society**, a community-driven organization dedicated to buildi
 | :--- | :--- | :--- |
 | **[Vernet](https://github.com/osociety/vernet)** | A full-featured Network Analyzer and Monitoring Tool for Android, iOS, macOS, Windows, and Linux. | [![GitHub release](https://img.shields.io/github/v/release/osociety/vernet)](https://github.com/osociety/vernet/releases) |
 | **[Network Tools](https://github.com/osociety/network_tools)** | Cross-platform Dart/Flutter library for host scanning, port scanning, and mdns discovery. | [![pub package](https://img.shields.io/pub/v/network_tools.svg)](https://pub.dev/packages/network_tools) |
-| **[Speed Test Dart](https://github.com/osociety/speed_test_dart)** | A reliable internet speed testing library for Dart/Flutter applications. | [![pub package](https://img.shields.io/pub/v/speed_test_dart.svg)](https://pub.dev/packages/speed_test_dart) |
-| **[uPnP.dart](https://github.com/osociety/upnp.dart)** | A modern uPnP client for Dart, supporting discovery, device information, and services. | [![GitHub release](https://img.shields.io/github/v/release/osociety/upnp.dart)](https://github.com/osociety/upnp.dart/releases) |
+| **[Network Tools Flutter](https://github.com/osociety/network_tools_flutter)** | Flutter specific features for network_tools, handling platform limitations and mDNS. | [![pub package](https://img.shields.io/pub/v/network_tools_flutter.svg)](https://pub.dev/packages/network_tools_flutter) |
 
 ---
 
