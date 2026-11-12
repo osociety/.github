@@ -1,4 +1,4 @@
-![Open Society banner](banner.png)
+![Open Society banner](banner.png?v=2)
 
 # Open Society
 
