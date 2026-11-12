@@ -1,13 +1,13 @@
-![Open Society banner](banner.png?v=2)
+![Open Society banner](banner.png?v=3)
 
 # Open Society
 
 We build open-source network analysis and monitoring tools in Dart and Flutter —
 one cross-platform app and the libraries that power it.
 
-[![Stars](https://img.shields.io/github/stars/osociety?style=for-the-badge&label=stars&color=A06BFF)](https://github.com/osociety)
-[![Followers](https://img.shields.io/github/followers/osociety?style=for-the-badge&label=followers&color=6630A5&logo=github&logoColor=white)](https://github.com/osociety)
-[![Sponsoring](https://img.shields.io/liberapay/receives/opensociety?style=for-the-badge&label=sponsoring&color=410E76&logo=liberapay&logoColor=white)](https://liberapay.com/OpenSociety/donate)
+[![Stars](https://img.shields.io/github/stars/osociety?style=for-the-badge&label=stars&color=5FDDD0)](https://github.com/osociety)
+[![Followers](https://img.shields.io/github/followers/osociety?style=for-the-badge&label=followers&color=1D7587&logo=github&logoColor=white)](https://github.com/osociety)
+[![Sponsoring](https://img.shields.io/liberapay/receives/opensociety?style=for-the-badge&label=sponsoring&color=175F6D&logo=liberapay&logoColor=white)](https://liberapay.com/OpenSociety/donate)
 
 ---
 
@@ -15,10 +15,10 @@ one cross-platform app and the libraries that power it.
 
 ### [Vernet](https://github.com/osociety/vernet)
 
-[![Release](https://img.shields.io/github/v/release/osociety/vernet?style=flat&label=release&color=A06BFF)](https://github.com/osociety/vernet/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/osociety/vernet/total?style=flat&label=downloads&color=6630A5)](https://github.com/osociety/vernet/releases)
-[![Stars](https://img.shields.io/github/stars/osociety/vernet?style=flat&label=stars&color=6630A5)](https://github.com/osociety/vernet)
-[![Apache-2.0](https://img.shields.io/github/license/osociety/vernet?style=flat&label=license&color=6630A5)](https://github.com/osociety/vernet/blob/main/LICENSE)
+[![Release](https://img.shields.io/github/v/release/osociety/vernet?style=flat&label=release&color=5FDDD0)](https://github.com/osociety/vernet/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/osociety/vernet/total?style=flat&label=downloads&color=1D7587)](https://github.com/osociety/vernet/releases)
+[![Stars](https://img.shields.io/github/stars/osociety/vernet?style=flat&label=stars&color=1D7587)](https://github.com/osociety/vernet)
+[![Apache-2.0](https://img.shields.io/github/license/osociety/vernet?style=flat&label=license&color=1D7587)](https://github.com/osociety/vernet/blob/main/LICENSE)
 
 Know your network. Vernet finds the devices and services reachable on your local
 network, pings hosts, scans ports, resolves names in both directions, and
@@ -34,8 +34,8 @@ iOS builds are not released yet.
 
 ### [Network Tools](https://github.com/osociety/network_tools)
 
-[![pub](https://img.shields.io/pub/v/network_tools?style=flat&label=pub&color=A06BFF)](https://pub.dev/packages/network_tools)
-[![BSD-3-Clause](https://img.shields.io/github/license/osociety/network_tools?style=flat&label=license&color=6630A5)](https://github.com/osociety/network_tools/blob/main/LICENSE)
+[![pub](https://img.shields.io/pub/v/network_tools?style=flat&label=pub&color=5FDDD0)](https://pub.dev/packages/network_tools)
+[![BSD-3-Clause](https://img.shields.io/github/license/osociety/network_tools?style=flat&label=license&color=1D7587)](https://github.com/osociety/network_tools/blob/main/LICENSE)
 
 The engine underneath Vernet, and usable on its own: a pure Dart library for
 host discovery, port scanning, mDNS, ping, and DNS lookups on Android, iOS,
@@ -43,8 +43,8 @@ Linux, macOS, Windows, and the web.
 
 ### [Network Tools Flutter](https://github.com/osociety/network_tools_flutter)
 
-[![pub](https://img.shields.io/pub/v/network_tools_flutter?style=flat&label=pub&color=A06BFF)](https://pub.dev/packages/network_tools_flutter)
-[![Apache-2.0](https://img.shields.io/github/license/osociety/network_tools_flutter?style=flat&label=license&color=6630A5)](https://github.com/osociety/network_tools_flutter/blob/main/LICENSE)
+[![pub](https://img.shields.io/pub/v/network_tools_flutter?style=flat&label=pub&color=5FDDD0)](https://pub.dev/packages/network_tools_flutter)
+[![Apache-2.0](https://img.shields.io/github/license/osociety/network_tools_flutter?style=flat&label=license&color=1D7587)](https://github.com/osociety/network_tools_flutter/blob/main/LICENSE)
 
 The Flutter layer on top of `network_tools`, where it absorbs the platform
 limitations the pure Dart package cannot reach — mDNS permissions, background
