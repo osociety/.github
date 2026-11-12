@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Ask a question or get help
+    url: https://github.com/osociety/vernet/discussions/categories/q-a
+    about: Scans, settings, permissions, and "why is this device missing" go here rather than in an issue.
+  - name: Propose a feature
+    url: https://github.com/osociety/vernet/discussions/categories/ideas
+    about: Discuss the idea first so nobody builds the wrong thing twice.
+  - name: Report a security problem
+    url: https://github.com/osociety/vernet/security/policy
+    about: Use private vulnerability reporting. Please do not open a public issue.
